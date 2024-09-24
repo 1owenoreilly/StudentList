@@ -3,7 +3,7 @@ package studentexample;
 /**
  * This class represents a Student
  *
- * @author Paul Bonenfant
+ * @author owen oreilly 24 sept
  */
 public class Student {
     
